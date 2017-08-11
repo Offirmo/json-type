@@ -1,0 +1,13 @@
+{
+  "name": "json-types",
+  "version": "0.0.1",
+  "description": "TypeScript interfaces for the JSON objects",
+  "main": "index.js",
+  "repository": "git@offirmo.github.com:Offirmo/json-types.git",
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "ts-node": "^3.0.4",
+    "typescript": "^2.2.2"
+  }
+}
